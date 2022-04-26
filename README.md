@@ -12,4 +12,4 @@ Ah bon ? Eh bien, voici par où commencer :
 * L'interface Constellation (en ligne et installable) : https://github.com/reseau-constellation/constellation/
 * Le code central (IPA) du réseau Constellation : https://github.com/reseau-constellation/ipa/
 * Un client Python pour Constellation : https://github.com/reseau-constellation/client-python
-* Un serveur local (localhost) pour intégrer Constellation à d'autre applications : https://github.com/reseau-constellation/serveur-ws
+* Un serveur local (localhost) pour intégrer Constellation à d'autres applications : https://github.com/reseau-constellation/serveur-ws
