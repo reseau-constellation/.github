@@ -1,7 +1,7 @@
 # Réseau Constellation
 Vous trouverez tout les projets du réseau de données scientifiques distribuées Constellation ici.
 
-## Je ne veux rien savoir de code, je cherche juste l'appli !
+## Je ne veux rien savoir du code, je cherchais juste l'appli !
 Pour accéder l'application en ligne, (cliquez ici)[https://réseau-constellation.ca].
 
 Pour télécharger l'application, (cliquez ici)[https://github.com/reseau-constellation/constellation/releases].
