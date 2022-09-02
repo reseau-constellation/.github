@@ -1,5 +1,12 @@
-# Réseau Constellation
-Vous trouverez ici tout les projets du réseau de données scientifiques distribuées Constellation.
+<p align="center">
+  <a href="https://docu.réseau-constellation.ca" title="Constellation">
+    <img src="https://xn--rseau-constellation-bzb.ca/img/logo.2a562100.svg" alt="Logo Constellation" width="244" />
+  </a>
+</p>
+
+<h1 align="center">Réseau Constellation</h1>
+
+<p align="center">Vous trouverez ici tout les projets du réseau de données scientifiques distribuées Constellation.</p>
 
 ## Je ne veux rien savoir du code, je cherchais juste l'appli !
 Pour accéder l'application en ligne, [cliquez ici](https://réseau-constellation.ca).
