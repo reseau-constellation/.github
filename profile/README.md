@@ -6,7 +6,7 @@
 
 <h1 align="center">Réseau Constellation</h1>
 
-<p align="center">Vous trouverez ici tout les projets du réseau de données scientifiques distribuées Constellation.</p>
+<p align="center">Vous trouverez ici tout les projets du réseau Constellation pour les données scientifiques distribuées.</p>
 
 ## Je ne veux rien savoir du code, je cherchais juste l'appli !
 Pour accéder l'application en ligne, [cliquez ici](https://réseau-constellation.ca).
