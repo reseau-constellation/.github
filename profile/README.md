@@ -16,7 +16,7 @@ Pour télécharger l'application, [cliquez ici](https://github.com/reseau-conste
 ## Après tout, le code m'intéresse aussi
 Ah bon ? Eh bien, voici par où commencer :
 
-* L'interface Constellation (en ligne et installable) : https://github.com/reseau-constellation/constellation/
-* Le code central (IPA) du réseau Constellation : https://github.com/reseau-constellation/ipa/
-* Un client Python pour Constellation : https://github.com/reseau-constellation/client-python
-* Un serveur local (localhost) pour intégrer Constellation à d'autre applications : https://github.com/reseau-constellation/serveur-ws
+* L'[interface](https://github.com/reseau-constellation/constellation/) Constellation ([en ligne](https://r%C3%A9seau-constellation.ca) et [installable](https://github.com/reseau-constellation/constellation/releases))
+* Le [code central (IPA)](https://github.com/reseau-constellation/ipa/) du réseau Constellation
+* Un [client Python](https://github.com/reseau-constellation/client-python) pour Constellation
+* Un [serveur local (localhost)](https://github.com/reseau-constellation/serveur-ws) pour intégrer Constellation à d'autre applications
