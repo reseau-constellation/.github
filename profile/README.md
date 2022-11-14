@@ -9,7 +9,7 @@
 <p align="center">Vous trouverez ici tout les projets du réseau Constellation pour les données scientifiques distribuées.</p>
 <p align="center">
   <a href="https://github.com/reseau-constellation/serveur-ws/actions/workflows/tests.yml" title="Serveur WS">
-    <img src="https://github.com/reseau-constellation/serveur-ws/actions/workflows/tests.yml/badge.svg" alt="Statut serveur WS" width="244" />
+    <img src="https://github.com/reseau-constellation/serveur-ws/actions/workflows/tests.yml/badge.svg" alt="Statut serveur WS" />
   </a>
 </p>
 
