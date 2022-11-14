@@ -7,6 +7,11 @@
 <h1 align="center">Réseau Constellation</h1>
 
 <p align="center">Vous trouverez ici tout les projets du réseau Constellation pour les données scientifiques distribuées.</p>
+<p align="center">
+  <a href="https://github.com/reseau-constellation/serveur-ws/actions/workflows/tests.yml" title="Serveur WS">
+    <img src="https://github.com/reseau-constellation/serveur-ws/actions/workflows/tests.yml/badge.svg" alt="Statut serveur WS" width="244" />
+  </a>
+</p>
 
 ## Je ne veux rien savoir du code, je cherchais juste l'appli !
 Pour accéder l'application en ligne, [cliquez ici](https://réseau-constellation.ca).
