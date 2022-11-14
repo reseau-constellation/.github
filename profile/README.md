@@ -8,8 +8,18 @@
 
 <p align="center">Vous trouverez ici tout les projets du réseau Constellation pour les données scientifiques distribuées.</p>
 <p align="center">
+  <a href="https://github.com/reseau-constellation/ipa/actions/workflows/tests.yml" title="IPA">
+    <img src="https://github.com/reseau-constellation/ipa/actions/workflows/tests.yml/badge.svg" alt="Statut IPA" />
+  </a>
+  
   <a href="https://github.com/reseau-constellation/serveur-ws/actions/workflows/tests.yml" title="Serveur WS">
     <img src="https://github.com/reseau-constellation/serveur-ws/actions/workflows/tests.yml/badge.svg" alt="Statut serveur WS" />
+  </a>
+  <a href="https://github.com/reseau-constellation/client-python/actions/workflows/test.yml" title="Client Python">
+    <img src="https://github.com/reseau-constellation/client-python/actions/workflows/test.yaml/badge.svg" alt="Statut client Python" />
+  </a>
+  <a href="https://github.com/reseau-constellation/Constellation.jl/actions/workflows/CI.yml" title="Client Julia">
+    <img src="https://github.com/reseau-constellation/Constellation.jl/actions/workflows/CI.yml/badge.svg" alt="Statut serveur WS" />
   </a>
 </p>
 
@@ -24,4 +34,5 @@ Ah bon ? Eh bien, voici par où commencer :
 * L'[interface](https://github.com/reseau-constellation/constellation/) Constellation ([en ligne](https://r%C3%A9seau-constellation.ca) et [installable](https://github.com/reseau-constellation/constellation/releases))
 * Le [code central (IPA)](https://github.com/reseau-constellation/ipa/) du réseau Constellation
 * Un [client Python](https://github.com/reseau-constellation/client-python) pour Constellation
+* Un [client Julia](https://github.com/reseau-constellation/Constellation.jl) pour Constellation
 * Un [serveur local (localhost)](https://github.com/reseau-constellation/serveur-ws) pour intégrer Constellation à d'autre applications
