@@ -15,7 +15,7 @@
   <a href="https://github.com/reseau-constellation/serveur-ws/actions/workflows/tests.yml" title="Serveur WS">
     <img src="https://github.com/reseau-constellation/serveur-ws/actions/workflows/tests.yml/badge.svg" alt="Statut serveur WS" />
   </a>
-  <a href="https://github.com/reseau-constellation/client-python/actions/workflows/test.yml" title="Client Python">
+  <a href="https://github.com/reseau-constellation/client-python/actions/workflows/test.yaml" title="Client Python">
     <img src="https://github.com/reseau-constellation/client-python/actions/workflows/test.yaml/badge.svg" alt="Statut client Python" />
   </a>
   <a href="https://github.com/reseau-constellation/Constellation.jl/actions/workflows/CI.yml" title="Client Julia">
