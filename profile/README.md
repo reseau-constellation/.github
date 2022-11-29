@@ -22,6 +22,17 @@
     <img src="https://github.com/reseau-constellation/Constellation.jl/actions/workflows/CI.yml/badge.svg" alt="Statut serveur WS" />
   </a>
 </p>
+<p align="center">
+  <a href="https://github.com/reseau-constellation/constellation/actions/workflows/gh-pages-deploy.yml" title="Appli Internet">
+    <img src="https://github.com/reseau-constellation/constellation/actions/workflows/gh-pages-deploy.yml/badge.svg" alt="Statut IPA" />
+  </a>
+  <a href="https://github.com/reseau-constellation/constellation/actions/workflows/electron.yml" title="Électron MacOS + Linux">
+    <img src="https://github.com/reseau-constellation/constellation/actions/workflows/electron.yml/badge.svg" alt="Statut serveur WS" />
+  </a>
+  <a href="https://ci.appveyor.com/project/julienmalard/constellation/branch/master" title="Client Python">
+    <img src="https://ci.appveyor.com/api/projects/status/6rl7m3eroj219fqb/branch/master?svg=true" alt="Électron Windows" />
+  </a>
+</p>
 
 ## Je ne veux rien savoir du code, je cherchais juste l'appli !
 Pour accéder l'application en ligne, [cliquez ici](https://réseau-constellation.ca).
