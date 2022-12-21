@@ -42,8 +42,8 @@ Pour télécharger l'application, [cliquez ici](https://github.com/reseau-conste
 ## Après tout, le code m'intéresse aussi
 Ah bon ? Eh bien, voici par où commencer :
 
-* L'[interface](https://github.com/reseau-constellation/constellation/) Constellation ([en ligne](https://r%C3%A9seau-constellation.ca) et [installable](https://github.com/reseau-constellation/constellation/releases))
-* Le [code central (IPA)](https://github.com/reseau-constellation/ipa/) du réseau Constellation
-* Un [client Python](https://github.com/reseau-constellation/client-python) pour Constellation
-* Un [client Julia](https://github.com/reseau-constellation/Constellation.jl) pour Constellation
-* Un [serveur local (localhost)](https://github.com/reseau-constellation/serveur-ws) pour intégrer Constellation à d'autre applications
+* L'[interface](https://github.com/reseau-constellation/constellation/) Constellation ([en ligne](https://réseau-constellation.ca) et [installable](https://github.com/reseau-constellation/constellation/releases))
+* Le code central [(Interface de programmation d'application, IPA)](https://github.com/reseau-constellation/ipa/) du réseau Constellation, pour incorporer dans vos applications mobiles ou Électron (installables sur ordinateur)
+* Un [client Python](https://github.com/reseau-constellation/client-python) pour connecter des programmes Python au réseau Constellation
+* Un [client Julia](https://github.com/reseau-constellation/Constellation.jl) pour des programmes Julia au réseau Constellation
+* Un [serveur local (localhost)](https://github.com/reseau-constellation/serveur-ws) pour intégrer Constellation à des applications dans d'autres langages informatiques.
