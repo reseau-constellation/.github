@@ -8,25 +8,25 @@
 
 <p align="center">Vous trouverez ici tout les projets du réseau Constellation pour les données scientifiques distribuées.</p>
 <p align="center">
-  <a href="https://github.com/reseau-constellation/ipa/actions/workflows/tests.yml" title="IPA">
+  <a href="https://github.com/reseau-constellation/ipa/" title="IPA">
     <img src="https://github.com/reseau-constellation/ipa/actions/workflows/tests.yml/badge.svg" alt="Statut IPA" />
   </a>
   
-  <a href="https://github.com/reseau-constellation/serveur-ws/actions/workflows/tests.yml" title="Serveur WS">
+  <a href="https://github.com/reseau-constellation/serveur-ws/" title="Serveur WS">
     <img src="https://github.com/reseau-constellation/serveur-ws/actions/workflows/tests.yml/badge.svg" alt="Statut serveur WS" />
   </a>
-  <a href="https://github.com/reseau-constellation/client-python/actions/workflows/test.yaml" title="Client Python">
+  <a href="https://github.com/reseau-constellation/client-python/" title="Client Python">
     <img src="https://github.com/reseau-constellation/client-python/actions/workflows/test.yaml/badge.svg" alt="Statut client Python" />
   </a>
-  <a href="https://github.com/reseau-constellation/Constellation.jl/actions/workflows/CI.yml" title="Client Julia">
+  <a href="https://github.com/reseau-constellation/Constellation.jl/" title="Client Julia">
     <img src="https://github.com/reseau-constellation/Constellation.jl/actions/workflows/CI.yml/badge.svg" alt="Statut serveur WS" />
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/reseau-constellation/constellation/actions/workflows/gh-pages-deploy.yml" title="Appli Internet">
+  <a href="https://github.com/reseau-constellation/constellation/" title="Appli Internet">
     <img src="https://github.com/reseau-constellation/constellation/actions/workflows/gh-pages-deploy.yml/badge.svg" alt="Statut IPA" />
   </a>
-  <a href="https://github.com/reseau-constellation/constellation/actions/workflows/electron.yml" title="Électron MacOS + Linux">
+  <a href="https://github.com/reseau-constellation/constellation/" title="Électron MacOS + Linux">
     <img src="https://github.com/reseau-constellation/constellation/actions/workflows/electron.yml/badge.svg" alt="Statut serveur WS" />
   </a>
   <a href="https://ci.appveyor.com/project/julienmalard/constellation/branch/master" title="Client Python">
