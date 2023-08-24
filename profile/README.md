@@ -34,7 +34,7 @@
 ## Je ne veux rien savoir du code, je cherchais juste l'appli !
 Pour accéder l'application en ligne, [cliquez ici](https://réseau-constellation.ca).
 
-Pour télécharger l'application, [cliquez ici](https://github.com/reseau-constellation/constellation/releases).
+Pour télécharger l'application, [cliquez ici](https://réseau-constellation.ca/téléchargements).
 
 ## Après tout, le code m'intéresse aussi
 Ah bon ? Eh bien, voici par où commencer :
