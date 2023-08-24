@@ -26,7 +26,7 @@
   <a href="https://github.com/reseau-constellation/constellation/" title="Appli Internet">
     <img src="https://github.com/reseau-constellation/constellation/actions/workflows/gh-pages-deploy.yml/badge.svg" alt="Statut IPA" />
   </a>
-  <a href="https://github.com/reseau-constellation/constellation/" title="Appli installable">
+  <a href="https://github.com/reseau-constellation/iug/" title="Appli installable">
     <img src="https://github.com/reseau-constellation/iug/actions/workflows/ci.yml/badge.svg" alt="Statut serveur WS" />
   </a>
 </p>
