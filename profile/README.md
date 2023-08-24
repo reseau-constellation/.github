@@ -26,11 +26,8 @@
   <a href="https://github.com/reseau-constellation/constellation/" title="Appli Internet">
     <img src="https://github.com/reseau-constellation/constellation/actions/workflows/gh-pages-deploy.yml/badge.svg" alt="Statut IPA" />
   </a>
-  <a href="https://github.com/reseau-constellation/constellation/" title="Électron MacOS + Linux">
-    <img src="https://github.com/reseau-constellation/constellation/actions/workflows/electron.yml/badge.svg" alt="Statut serveur WS" />
-  </a>
-  <a href="https://ci.appveyor.com/project/julienmalard/constellation/branch/master" title="Client Python">
-    <img src="https://ci.appveyor.com/api/projects/status/6rl7m3eroj219fqb/branch/master?svg=true" alt="Électron Windows" />
+  <a href="https://github.com/reseau-constellation/constellation/" title="Appli installable">
+    <img src="https://github.com/reseau-constellation/iug/actions/workflows/ci.yml/badge.svg" alt="Statut serveur WS" />
   </a>
 </p>
 
