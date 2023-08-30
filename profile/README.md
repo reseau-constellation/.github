@@ -19,7 +19,7 @@
     <img src="https://github.com/reseau-constellation/client-python/actions/workflows/test.yaml/badge.svg" alt="Statut client Python" />
   </a>
   <a href="https://github.com/reseau-constellation/Constellation.jl/" title="Client Julia">
-    <img src="https://github.com/reseau-constellation/Constellation.jl/actions/workflows/CI.yml/badge.svg" alt="Statut serveur WS" />
+    <img src="https://github.com/reseau-constellation/Constellation.jl/actions/workflows/CI.yml/badge.svg?branch=principale" alt="Statut serveur WS" />
   </a>
 </p>
 <p align="center">
