@@ -34,6 +34,9 @@
   </a>
 </p>
 
+## Communauté Constellation
+Vous pouvez nous contacter sur [Matrix](https://matrix.to/#/!poDYzupTbvLiBsnQSr:matrix.org?via=matrix.org) pour des discussions et questions générales au sujet de Constellation.
+
 ## Je ne veux rien savoir du code, je cherchais juste l'appli !
 Vous pouvez accéder [l'application en ligne](https://réseau-constellation.ca), la [télécharger](https://réseau-constellation.ca/téléchargements) sur votre ordinateur, ou bien [lire la documentation](https://docu.réseau-constellation.ca).
 
