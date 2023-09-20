@@ -9,28 +9,28 @@
 <p align="center">Vous trouverez ici tout les projets du réseau Constellation pour les données scientifiques distribuées.</p>
 <p align="center">
   <a href="https://github.com/reseau-constellation/ipa/" title="IPA">
-    <img src="https://github.com/reseau-constellation/ipa/actions/workflows/tests.yml/badge.svg" alt="Statut IPA" />
+    <img src="https://github.com/reseau-constellation/ipa/actions/workflows/tests.yml/badge.svg?branch=main" alt="Statut IPA" />
   </a>
   
   <a href="https://github.com/reseau-constellation/serveur-ws/" title="Serveur WS">
-    <img src="https://github.com/reseau-constellation/serveur-ws/actions/workflows/tests.yml/badge.svg" alt="Statut serveur WS" />
+    <img src="https://github.com/reseau-constellation/serveur-ws/actions/workflows/tests.yml/badge.svg?branch=master" alt="Statut serveur WS" />
   </a>
   <a href="https://github.com/reseau-constellation/client-python/" title="Client Python">
-    <img src="https://github.com/reseau-constellation/client-python/actions/workflows/test.yaml/badge.svg" alt="Statut client Python" />
+    <img src="https://github.com/reseau-constellation/client-python/actions/workflows/test.yaml/badge.svg?branch=master" alt="Statut client Python" />
   </a>
   <a href="https://github.com/reseau-constellation/Constellation.jl/" title="Client Julia">
     <img src="https://github.com/reseau-constellation/Constellation.jl/actions/workflows/CI.yml/badge.svg?branch=principale" alt="Statut serveur WS" />
   </a>
   <a href="https://github.com/reseau-constellation/client-r/actions" title="Client R">
-    <img src="https://github.com/reseau-constellation/client-r/workflows/R-CMD-check/badge.svg" alt="Statut client R" />
+    <img src="https://github.com/reseau-constellation/client-r/workflows/R-CMD-check/badge.svg?branch=main" alt="Statut client R" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/reseau-constellation/constellation/" title="Appli Internet">
-    <img src="https://github.com/reseau-constellation/constellation/actions/workflows/gh-pages-deploy.yml/badge.svg" alt="Statut IPA" />
+    <img src="https://github.com/reseau-constellation/constellation/actions/workflows/gh-pages-deploy.yml/badge.svg?branch=master" alt="Statut IPA" />
   </a>
   <a href="https://github.com/reseau-constellation/iug/" title="Appli installable">
-    <img src="https://github.com/reseau-constellation/iug/actions/workflows/ci.yml/badge.svg" alt="Statut serveur WS" />
+    <img src="https://github.com/reseau-constellation/iug/actions/workflows/ci.yml/badge.svg?branch=main" alt="Statut serveur WS" />
   </a>
 </p>
 
