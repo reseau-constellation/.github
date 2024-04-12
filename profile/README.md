@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://docu.réseau-constellation.ca" title="Constellation">
-    <img src="https://xn--rseau-constellation-bzb.ca/img/logo.2a562100.svg" alt="Logo Constellation" width="244" />
+    <img src="https://docu.xn--rseau-constellation-bzb.ca/logo.svg" alt="Logo Constellation" width="244" />
   </a>
 </p>
 
