@@ -40,6 +40,8 @@ Vous pouvez nous contacter sur [Matrix](https://matrix.to/#/!poDYzupTbvLiBsnQSr:
 ## Je ne veux rien savoir du code, je cherchais juste l'appli !
 Vous pouvez accéder [l'application en ligne](https://réseau-constellation.ca), la [télécharger](https://réseau-constellation.ca/téléchargements) sur votre ordinateur, ou bien [lire la documentation](https://docu.réseau-constellation.ca).
 
+Voici aussi notre [site Internet](https://réseau-constellation.ca).
+
 ## Après tout, le code m'intéresse aussi
 Ah bon ? Eh bien, voici par où commencer :
 
