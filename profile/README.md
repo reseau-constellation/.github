@@ -13,7 +13,7 @@
   </a>
   
   <a href="https://github.com/reseau-constellation/serveur-ws/" title="Serveur WS">
-    <img src="https://github.com/reseau-constellation/serveur-ws/actions/workflows/tests.yml/badge.svg?branch=master" alt="Statut serveur WS" />
+    <img src="https://github.com/reseau-constellation/serveur-ws/actions/workflows/tests.yml/badge.svg?branch=principale" alt="Statut serveur WS" />
   </a>
   <a href="https://github.com/reseau-constellation/client-python/" title="Client Python">
     <img src="https://github.com/reseau-constellation/client-python/actions/workflows/ic.yml/badge.svg?branch=master" alt="Statut client Python" />
