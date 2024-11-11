@@ -21,9 +21,10 @@
   <a href="https://github.com/reseau-constellation/Constellation.jl/" title="Client Julia">
     <img src="https://github.com/reseau-constellation/Constellation.jl/actions/workflows/CI.yml/badge.svg?branch=principale" alt="Statut serveur WS" />
   </a>
-  <a href="https://github.com/reseau-constellation/client-r/actions" title="Client R">
-    <img src="https://github.com/reseau-constellation/client-r/workflows/R-CMD-check/badge.svg?branch=main" alt="Statut client R" />
+  <a href="https://github.com/reseau-constellation/client-r/actions/workflows/R-CMD-check.yaml" title="Client R">
+    <img src="https://github.com/reseau-constellation/client-r/actions/workflows/R-CMD-check.yaml/badge.svg?branch=main" alt="Statut client R" />
   </a>
+
 </p>
 <p align="center">
   <a href="https://github.com/reseau-constellation/iug/" title="Appli Internet">
