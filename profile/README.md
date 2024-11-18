@@ -28,10 +28,10 @@
 </p>
 <p align="center">
   <a href="https://github.com/reseau-constellation/iug/" title="Appli Internet">
-    <img src="https://github.com/reseau-constellation/iug/actions/workflows/publierPage.yml/badge.svg?branch=main" alt="Statut IPA" />
+    <img src="https://github.com/reseau-constellation/iug/actions/workflows/publierPage.yml/badge.svg?branch=main" alt="Statut appli Internet" />
   </a>
   <a href="https://github.com/reseau-constellation/iug/" title="Appli installable">
-    <img src="https://github.com/reseau-constellation/iug/actions/workflows/ci.yml/badge.svg?branch=main" alt="Statut serveur WS" />
+    <img src="https://github.com/reseau-constellation/iug/actions/workflows/release.yml/badge.svg?branch=main" alt="Statut appli installable" />
   </a>
 </p>
 
