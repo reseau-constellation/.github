@@ -11,7 +11,8 @@
   <a href="https://github.com/reseau-constellation/ipa/" title="IPA">
     <img src="https://github.com/reseau-constellation/ipa/actions/workflows/tests.yml/badge.svg?branch=main" alt="Statut IPA" />
   </a>
-  
+</p>
+<p align="center">
   <a href="https://github.com/reseau-constellation/serveur-ws/" title="Serveur WS">
     <img src="https://github.com/reseau-constellation/serveur-ws/actions/workflows/tests.yml/badge.svg?branch=principale" alt="Statut serveur WS" />
   </a>
@@ -29,6 +30,9 @@
 <p align="center">
   <a href="https://github.com/reseau-constellation/iug/" title="Application">
     <img src="https://github.com/reseau-constellation/iug/actions/workflows/ci.yml/badge.svg?branch=main" alt="Statut appli Internet" />
+  </a>
+  <a href="https://github.com/reseau-constellation/vue/" title="Application">
+    <img src="https://github.com/reseau-constellation/vue/actions/workflows/tests.yml/badge.svg?branch=main" alt="Statut extension Vue.js" />
   </a>
 </p>
 
